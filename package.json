@@ -1,6 +1,6 @@
 {
-  "name": "@kennethormandy/jade",
-  "description": "A clean, whitespace-sensitive template language for writing HTML",
+  "name": "harp-jade",
+  "description": "Harp’s fork of Jade, that reduces v1.0.0 breakage.",
   "version": "1.9.3-bc.3",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "maintainers": [
